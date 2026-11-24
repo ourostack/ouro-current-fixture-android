@@ -1,5 +1,5 @@
 [versions]
-ouro = "0.12.0"
+ouro = "0.12.1"
 
 [libraries]
 ouro-hx = { module = "bot.ouro.ui:ouro-hx", version.ref = "ouro" }
